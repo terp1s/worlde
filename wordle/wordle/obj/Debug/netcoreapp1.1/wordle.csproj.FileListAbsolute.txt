@@ -1,0 +1,10 @@
+C:\Users\piskovat\source\repos\wordle\wordle\bin\Debug\netcoreapp1.1\wordle.deps.json
+C:\Users\piskovat\source\repos\wordle\wordle\bin\Debug\netcoreapp1.1\wordle.runtimeconfig.json
+C:\Users\piskovat\source\repos\wordle\wordle\bin\Debug\netcoreapp1.1\wordle.runtimeconfig.dev.json
+C:\Users\piskovat\source\repos\wordle\wordle\bin\Debug\netcoreapp1.1\wordle.dll
+C:\Users\piskovat\source\repos\wordle\wordle\bin\Debug\netcoreapp1.1\wordle.pdb
+C:\Users\piskovat\source\repos\wordle\wordle\obj\Debug\netcoreapp1.1\wordle.csprojResolveAssemblyReference.cache
+C:\Users\piskovat\source\repos\wordle\wordle\obj\Debug\netcoreapp1.1\wordle.csproj.CoreCompileInputs.cache
+C:\Users\piskovat\source\repos\wordle\wordle\obj\Debug\netcoreapp1.1\wordle.AssemblyInfo.cs
+C:\Users\piskovat\source\repos\wordle\wordle\obj\Debug\netcoreapp1.1\wordle.dll
+C:\Users\piskovat\source\repos\wordle\wordle\obj\Debug\netcoreapp1.1\wordle.pdb
